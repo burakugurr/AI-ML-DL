@@ -1,6 +1,8 @@
 # AI-ML-DL
 ![GitHub Logo](https://www.surveycto.com/wp-content/uploads/2018/04/ai-and-dev.jpg)
-Makine Öğrenmesi modelleri ile ilgili çeşitli uygulama dosyaları içerir.(Contains various application files related to machine learning) models.
+Makine Öğrenmesi modelleri ile ilgili çeşitli uygulama dosyaları içerir.
+
+(Contains various application files related to machine learning) models.
 ## Statistical & Mathematical Model
 
 REG_EX => Data Science 101 with Regression Models
@@ -24,3 +26,5 @@ image classification => Cifar10 object detection example with using Keras
 
 ## Question
  İf you ask me questions connect to [Linkedln](linkedin.com/in/burak-uğur).
+ 
+ Writer : Burak Uğur
