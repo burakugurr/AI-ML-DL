@@ -11,7 +11,9 @@ COVİD_19_SUNUSU => Covid-19 prediction in Sckit-learn
 
 Cam Kalitesi Sınıflayıcı => Glass Quality Classifier with Sckit-learn 
 
-Metin Analizi => NLP example
+Metin Analizi => NLP Example
+
+İstatistiksel Veri Analizi => Statistical Data Analyst with Sckit-learn
 ## Deep Learning
 
 Tensorflow İle Regresyon => Tensorflow regression example
@@ -25,6 +27,7 @@ MNIST using Pytorch => Classification example with using  Pytorch
 image classification => Cifar10 object detection example with using Keras
 
 ## Question
+
  İf you ask me questions connect to [Linkedln](linkedin.com/in/burak-uğur).
  
  Writer : Burak Uğur
