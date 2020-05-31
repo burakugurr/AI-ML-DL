@@ -28,6 +28,6 @@ image classification => Cifar10 object detection example with using Keras
 
 ## Question
 
- İf you ask me questions connect to [Linkedln](linkedin.com/in/burak-uğur).
+ İf you ask me questions connect to me on [Linkedln](linkedin.com/in/burak-uğur).
  
  Writer : Burak Uğur
