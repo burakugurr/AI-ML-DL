@@ -2,7 +2,7 @@
 ![GitHub Logo](https://www.surveycto.com/wp-content/uploads/2018/04/ai-and-dev.jpg)
 Makine Öğrenmesi modelleri ile ilgili çeşitli uygulama dosyaları içerir.
 
-(Contains various application files related to machine learning) models.
+(Contains various application files related to machine learning models.)
 ## Statistical & Mathematical Model
 
 REG_EX => Data Science 101 with Regression Models
