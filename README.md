@@ -14,6 +14,9 @@ Cam Kalitesi Sınıflayıcı => Glass Quality Classifier with Sckit-learn
 Metin Analizi => NLP Example
 
 İstatistiksel Veri Analizi => Statistical Data Analyst with Sckit-learn
+
+HCV => HCV Classification Example
+
 ## Deep Learning
 
 Tensorflow İle Regresyon => Tensorflow regression example
