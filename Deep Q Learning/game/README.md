@@ -2,6 +2,10 @@
 ## Description
 This program has been prepared using the Deep Q Learning model. The purpose of the application is that the "agent" eats all the baits with the best reward.
 
+![](The-Worlds-Hardest-Game.gif)
+
+
+
 ## Usage
 
 İf you want train the model:
@@ -18,7 +22,7 @@ python dqn.py train
 python dqn.py test
 ```
 
-
+![](The-Worlds-Hardest-Game1.gif)
 ## Requirements
 
 numpy==1.15.4
