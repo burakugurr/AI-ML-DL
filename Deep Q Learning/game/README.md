@@ -1,7 +1,35 @@
-İf you want train model:
-- [x] Open shell and go file directions.
-- [x] write "python dqn.py train" and push enter.
+# The Hardest Game In The World
+## Description
+This program has been prepared using the Deep Q Learning model. The purpose of the application is that the "agent" eats all the baits with the best reward.
 
-İf you want test model:
+## Usage
+
+İf you want train the model:
 - [x] Open shell and go file directions.
-- [x] write "python dqn.py test" and push enter.
+
+```bash
+python dqn.py train
+```
+
+İf you want test the model:
+- [x] Open shell and go file directions.
+
+```bash
+python dqn.py test
+```
+
+
+## Requirements
+
+numpy==1.15.4
+
+opencv-python==3.4.4.19
+
+pygame==1.9.4
+
+torch==1.0.0
+
+
+## Authors & Licances
+
+These files are protected under BTK AKADEMİ license. 
