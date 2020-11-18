@@ -8,18 +8,27 @@ This program has been prepared using the Deep Q Learning model. The purpose of t
 
 ## Usage
 
-İf you want train the model:
-- [x] Open shell and go file directions.
+| Function name | Description                    |
+| ------------- | ------------------------------ |
+| `train()`      | Train the agent according to the given parameters.|
+| `test()`   | run the last trained model.|
 
+
+
+- [ ] If you want train the model:
+    - [ ] Open shell and go file directions.
+    - [ ] Run this code
+    
 ```bash
 python dqn.py train
 ```
 
-İf you want test the model:
-- [x] Open shell and go file directions.
-
+- [ ] If you want test the model:
+    - [ ] Open shell and go file directions.
+    - [ ] Run this code
+    
 ```bash
-python dqn.py test
+python dqn.py test 
 ```
 
 ![](The-Worlds-Hardest-Game1.gif)
