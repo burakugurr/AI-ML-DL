@@ -1,4 +1,4 @@
-# The Hardest Game In The World
+# The World's Hardest Game 
 ## Description
 This program has been prepared using the Deep Q Learning model. The purpose of the application is that the "agent" eats all the baits with the best reward.
 
