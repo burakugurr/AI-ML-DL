@@ -7,8 +7,11 @@ Let's see the used scripts
 The data set is taken from [this address](https://www.kaggle.com/iabhishekofficial/mobile-price-classification "Data")
 
 > The data set contains basic information about the phone
+
 > I choose the decision tree classification among the ml models.
+
 > I get a training accuracy of **0.9435**
+
 > Saved model name "mobclass.pkl"
 
 ## 2) Load Model Scripts
@@ -30,6 +33,7 @@ scikit-Learn== 0.24
 pickle== 0.0.11
 
 ------------
-![Screenshoot](https://github.com/burakugurr/AI-ML-DL/tree/master/Phone%20Price%20App/AppGUI.jpg)
+![Main Screen](https://github.com/burakugurr/AI-ML-DL/tree/master/Phone%20Price%20App/AppGUI.jpg "Main Screen")
 
-![Screenshoot](https://github.com/burakugurr/AI-ML-DL/tree/master/Phone%20Price%20App/AppGUI2.jpg)
+
+![Predict Screen](https://github.com/burakugurr/AI-ML-DL/tree/master/Phone%20Price%20App/AppGUI2.jpg "Predict Screen")
