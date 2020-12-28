@@ -30,6 +30,6 @@ scikit-Learn== 0.24
 pickle== 0.0.11
 
 ------------
-![Screenshoot](/home/burak/Desktop/MLWorkSheet/App/Phone Price App/AppGUI.jpg "GUI")
+![Screenshoot](https://github.com/burakugurr/AI-ML-DL/Phone Price App/AppGUI.jpg?raw=true)
 
-![Screenshoot](/home/burak/Desktop/MLWorkSheet/App/Phone Price App/AppGUI2.jpg "GUI")
+![Screenshoot](https://github.com/burakugurr/AI-ML-DL/Phone Price App/AppGUI.jpg?raw=true)
