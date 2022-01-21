@@ -131,7 +131,7 @@ def show_predict():
 
     if st.button('Get Predict'):
         df_new = reader.create_df(gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree,degree_t,workex,etest,special,mba,salary)
-        with open('https://github.com/burakugurr/AI-ML-DL/blob/master/CampusRec_Streamlit/classifier.pkl', 'rb') as fid:
+        with open('https://github.com/burakugurr/AI-ML-DL/blob/master/CampusRec_Streamlit/classifier.pkl?raw=true', 'rb') as fid:
             model = pickle.load(fid)
         prediction = model.predict(df_new)
         with st.spinner('Wait for it...'):
