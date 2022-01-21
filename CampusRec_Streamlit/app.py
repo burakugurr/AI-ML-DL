@@ -10,7 +10,7 @@ import pickle
 import time
 from pathlib import Path
 
-df = pd.read_csv(Path(__file__).parents[1] / 'Placement_Data_Full_Class.csv')
+df = pd.read_csv(filepath_or_buffer =  "Placement_Data_Full_Class.csv")
 
 st.set_page_config(
      page_title="Campus Recruitment App",
