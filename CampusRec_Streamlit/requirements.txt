@@ -6,3 +6,4 @@ plotly
 pickle5
 scikit-learn
 seaborn
+torchvision
