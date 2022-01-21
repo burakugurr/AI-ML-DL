@@ -9,7 +9,7 @@ import reader
 import pickle
 import time
 
-df = pd.read_csv('./Placement_Data_Full_Class.csv')
+df = pd.read_csv('../Placement_Data_Full_Class.csv')
 
 st.set_page_config(
      page_title="Campus Recruitment App",
