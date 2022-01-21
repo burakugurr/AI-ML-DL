@@ -131,7 +131,9 @@ def show_predict():
 
     if st.button('Get Predict'):
         df_new = reader.create_df(gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree,degree_t,workex,etest,special,mba,salary)
-        model = pickle.load(open('classifier.pkl', 'rb'))
+        current_directory = Path(__file__).parent #Get current directory
+        file = open(os.path.join(current_directory, 'food_price.pkl'), 'rb')
+        model = pickle.load(file)
         prediction = model.predict(df_new)
         with st.spinner('Wait for it...'):
             time.sleep(5)
