@@ -3,6 +3,6 @@ pandas
 numpy
 matplotlib
 plotly
-pickle
+pickle5
 scikit-learn
 seaborn
