@@ -9,6 +9,7 @@ import reader
 import pickle
 import time
 from pathlib import Path
+import os
 
 df = pd.read_csv(filepath_or_buffer =  "https://raw.githubusercontent.com/burakugurr/AI-ML-DL/master/CampusRec_Streamlit/Placement_Data_Full_Class.csv")
 
