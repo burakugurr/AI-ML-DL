@@ -1,5 +1,5 @@
 flask==1.1.2
-mlflow==1.18.0
+mlflow==1.23.1
 Flask-SQLAlchemy>=2.5.1
 Flask-RESTful>=0.3.9
 scikit-learn==0.23.2
