@@ -2,7 +2,7 @@ flask==1.1.2
 mlflow==1.23.1
 Flask-SQLAlchemy>=2.5.1
 Flask-RESTful>=0.3.9
-scikit-learn==0.23.2
+scikit-learn==1.0.1
 pandas==0.24.1
 numpy>=1.9.2
 scipy>=0.15.1
